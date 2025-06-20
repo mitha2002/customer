@@ -1,1 +1,2 @@
-new customer
+new = np.array([[45,34,22,2],[24,55,3,22]])
+print(new)
